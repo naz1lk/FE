@@ -1,0 +1,14 @@
+h1 {
+    text-align: center;
+}
+
+.bike {
+    background-color: #34495E;
+    border-radius: 25px;
+    padding: 10px;
+    margin: 10px;
+}
+
+.bike p {
+    color: aliceblue;
+}
